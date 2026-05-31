@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+fdsfdfsdfd!;" />
+</h1>
+<h3 align="center">fsdfsdsfddfs</h3>
+<br/>
+<hr/>
 
-<!--
-**fsfsdfsd234/fsfsdfsd234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">fdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdg</p>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<br/>
+<br/>
+<hr/>
+
+### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,less,react,angular,tailwind,threejs" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,php,py,cs" />
+
+### Game/Scripting
+<img src="https://skillicons.dev/icons?i=cpp,c,lua,unreal," />
+
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,cassandra,firebase" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=kubernetes,nginx,graphql,postman" />
+
