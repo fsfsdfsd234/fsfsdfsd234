@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+fdsfdfsdfd!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MyName!;" />
 </h1>
-<h3 align="center">fsdfsdsfddfs</h3>
+<h3 align="center">Full Stack developer</h3>
 <br/>
 <hr/>
 
-<p align="center">fdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdgfdgdfgfdgdgfdgffdg</p>
+<p align="center">A test description for my GitHub profile README</p>
 
 <hr/>
 
@@ -15,17 +15,17 @@
 <hr/>
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,less,react,angular,tailwind,threejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,php,py,cs" />
+<img src="https://skillicons.dev/icons?i=django,flask,laravel,php,go,rust" />
 
 ### Game/Scripting
 <img src="https://skillicons.dev/icons?i=cpp,c,lua,unreal," />
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,cassandra,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=kubernetes,nginx,graphql,postman" />
+<img src="https://skillicons.dev/icons?i=docker,graphql,git,postman,prisma" />
 
