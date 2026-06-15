@@ -1,31 +1,26 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MyName!;" />
-</h1>
-<h3 align="center">Full Stack developer</h3>
-<br/>
-<hr/>
+# 👋 Hi, I'm ffsdfsd
 
-<p align="center">A test description for my GitHub profile README</p>
+### sdfsdsfsfdsfdf
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-<br/>
-<br/>
-<hr/>
+> ssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsdssd sd sfdf sdfsdf sdf sdfsd
+
+---
+
+## ⚒️ Languages - Frameworks - Tools
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind" />
+![Front-end](https://skillicons.dev/icons?i=html,js,angular,nextjs)
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=django,flask,laravel,php,go,rust" />
+![Backend](https://skillicons.dev/icons?i=express,django,fastapi,rails,py)
 
 ### Game/Scripting
-<img src="https://skillicons.dev/icons?i=cpp,c,lua,unreal," />
+![Game/Scripting](https://skillicons.dev/icons?i=cpp,c,unreal)
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase" />
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb)
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=docker,graphql,git,postman,prisma" />
-
+![Tools](https://skillicons.dev/icons?i=docker,nginx,graphql,git,prisma)
