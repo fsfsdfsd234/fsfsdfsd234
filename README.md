@@ -45,20 +45,12 @@
 <div align="center">
 
   <a href="https://www.instagram.com/Bl4ckk0"><img src="https://img.shields.io/badge/Instagram-d12802?logo=instagram" alt="Instagram"></a>
-
   <a href="sfdsdfsdf"><img src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin" alt="Linkedin"></a>
-
   <a href="fdssfsd"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail" alt="Gmail"></a>
-
   <a href="sdffsdsfd"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok" alt="TikTok"></a>
-
   <a href="fsdfsdfsd"><img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube" alt="Youtube"></a>
-
   <a href="sfdfsd"><img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch" alt="Twitch"></a>
-
   <a href="fsdsdf"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit" alt="Reddit"></a>
-
   <a href="fsdfsd"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord" alt="Discord"></a>
-
   <a href="sfdfsd"><img src="https://img.shields.io/badge/X-000000?logo=x" alt="X"></a>
 
