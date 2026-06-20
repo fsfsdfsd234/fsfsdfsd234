@@ -42,8 +42,9 @@
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
 
-<hr/>
 <br/>
+
+<hr/>
 
 <h2 align="center">Social</h2>
 <hr/>
